@@ -12,6 +12,7 @@
 }
 .item1 .p1{
 	text-align:right;
+	font-style:italic;
 }
 .item2{
 	position:relative;
@@ -25,4 +26,5 @@
 }
 .item2 .p2{
 	text-align:right;
+	font-style:italic;
 }
